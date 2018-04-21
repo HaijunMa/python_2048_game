@@ -204,7 +204,7 @@ def main(stdscr):
     state = 'Init'
 
     #状态机开始循环
-    while state != 'Exit':
+    while not state == 'Exit':
         state = state_actions[state]()
 
 curses.wrapper(main)
