@@ -5,8 +5,9 @@
 
 
 
-**游戏页面：**
+### 游戏页面：
 
 ![游戏页面](https://github.com/HaijunMa/python_2048_game/blob/master/1.jpg)
 
+![游戏页面](https://github.com/HaijunMa/python_2048_game/blob/master/2.jpg)
 
