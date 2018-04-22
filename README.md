@@ -11,12 +11,11 @@
 
 ## 游戏页面：
 
-      页面一
+      页面一：
 
 ![游戏页面](https://github.com/HaijunMa/python_2048_game/blob/master/1.jpg)
 
-      页面二
-      
+      页面二：   
 ![游戏页面](https://github.com/HaijunMa/python_2048_game/blob/master/2.jpg)
 
 ## 高分法则：
