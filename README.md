@@ -1,11 +1,11 @@
-# python_2048_game
+python_2048_game
 ---------------------------------------------
 
-<font size = 6 >开发者：马海军  开发时间：2017/1/6</font>
+          开发者：马海军               开发时间：2017/1/6
 
 ===============================================
 
-<font size = 5>**游戏页面:**</font>
 
-![游戏页面](https://github.com/HaijunMa/python_2048_game/blob/master/1.jpg)
+
+[游戏页面](https://github.com/HaijunMa/python_2048_game/blob/master/1.jpg)
 ==================================================
